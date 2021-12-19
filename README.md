@@ -1,6 +1,4 @@
-# Project Name  太空射击
-
-
+# Project Name
 
 
 ## Implementation
